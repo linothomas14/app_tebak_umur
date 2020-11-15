@@ -59,7 +59,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Cek!!"
-        android:enabled="false"
         android:background="@color/colorPrimary"
         app:layout_constraintBottom_toTopOf="@+id/tv_output"
         app:layout_constraintEnd_toEndOf="parent"
